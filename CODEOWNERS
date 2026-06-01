@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sidequestwav
+/src/backend/database.py      @sidequestwav
+/src/backend/routers/auth.py  @sidequestwav
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sidequestwav
